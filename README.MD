@@ -1,5 +1,5 @@
-## MIPR2019
-This repo provides the supplementary material of MIPR2019 paper, where the decoded test images of different lambda values are uploaded. The summarization of bit-rate points are listed in bpp.csv.
+## Scalable Auto-Encoder (SAE) for Image Compression
+This repo provides the supplementary material of MIPR2019 submission, "Layered Image Compression using Scalable Auto-Encoder", where the decoded test images of different lambda values are uploaded. The summarization of bit-rate points are listed in bpp.csv.
 
 
 ### MSE
